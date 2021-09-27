@@ -1,4 +1,4 @@
-# Instagram, Privacy, and Iframes
+# Instagram, Privacy, and iFrames
 
 This blog post is about a side-channel vulnerability I found back in 2018. At the time there was no better name for the technique but today they are commonly referred to as XSLeaks (Cross-Site Leaks).
 
